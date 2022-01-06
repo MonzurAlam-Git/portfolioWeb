@@ -1,0 +1,180 @@
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+}
+
+p {
+  font-size: 25px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.top-banner {
+  /* display: flex; */
+  margin-left: 200px;
+}
+.half-width {
+  width: 50%;
+}
+
+.half-width img {
+  width: 50%;
+}
+#top-sec {
+  /* box-shadow: 10px 10px 40px gray; */
+  border-radius: 10px;
+  border-left: 5px solid;
+  border-image: linear-gradient(red, tomato);
+  border-image-slice: 1;
+  /* margin-left: 50px; */
+}
+
+.make-orange {
+  color: orangered;
+}
+
+.btn {
+  text-decoration: none;
+  /* background-image: linear(#ff5959); */
+  background-image: linear-gradient(#ff512f, #dd2476);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.section-mission {
+  margin: 0px 100px;
+
+  display: flex;
+}
+
+.section-mission img {
+  width: 40%;
+}
+
+.section-mission h3 {
+  font-size: 40px;
+}
+#Mission {
+  background-color: rgb(253, 230, 230);
+  box-shadow: 10px 10px 40px gray;
+  margin: 20px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  /* background-color: linear-gradient(ash, gray); */
+  /* border: solid 10px;
+} */
+}
+#vision {
+  box-shadow: 10px 10px 40px gray;
+  margin: 20px;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+#goals {
+  background-color: rgb(248, 253, 204);
+  box-shadow: 10px 10px 40px gray;
+  margin: 20px;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+.clean-code {
+  margin: 10%;
+  background-image: url(images/shapes/shape-1.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: left;
+  padding: 5%;
+}
+
+.cc-text {
+  margin-right: 30%;
+  /* margin: 10%; */
+  /* background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat; */
+}
+
+.cc-img {
+  margin-top: 80px;
+  width: 250%;
+  /* margin: 10%; */
+}
+
+.cc-img img {
+  width: 70%;
+}
+
+footer {
+  background-color: black;
+}
+
+.Smooth-ex {
+  /* background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  /* background-position: right;  */
+  margin: 10%;
+  background-image: url(images/shapes/shape-1.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30%;
+  padding: 5%;
+}
+.smooth-ex-img img {
+  width: 80%;
+  /* background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30%; */
+  /* margin-right: 150px; */
+  /* padding-right: 30%; */
+}
+.smooth-ex-img img {
+  padding-left: 70px;
+  width: 80%;
+}
+
+.my-project {
+  margin-top: 0px;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+.my-project img {
+  width: 95%;
+}
+.foot {
+  text-align: center;
+  /* color: white; */
+  height: 100px;
+  margin-bottom: 0;
+}
+
+.make-white {
+  color: white;
+}
+footer h3 {
+  font-size: 40px;
+  margin-bottom: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+footer p {
+  font-size: 20px;
+  /* font-weight: lighter; */
+}
